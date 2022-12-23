@@ -1,0 +1,22 @@
+/* styles.css */
+
+/* rule one */
+
+.left,
+.right {
+  font-size: 28px;
+  font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+/* rule two */
+
+.left {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+/* rule three */
+
+.right {
+  background-color: #FFFF00;
+}
