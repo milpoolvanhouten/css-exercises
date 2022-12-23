@@ -1,0 +1,13 @@
+/* styles.css */
+
+/* rule 1 */
+p {
+  background-color:rgb(250, 218, 221) ;
+  font-family: "Verdana", "DeJavu Sans", sans-serif;
+}
+
+/* rule 2 */
+#number3 {
+  color: rgb(49, 149, 183);
+  font-size: 36px;
+}
